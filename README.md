@@ -1,2 +1,2 @@
 # NickChange
-Changes user nickname on private message or resets it
+Changes user nickname or resets it. Only works in DMs
